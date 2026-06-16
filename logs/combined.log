@@ -1,0 +1,44 @@
+{"level":"info","message":"Hello From DevOps API","service":"devOps_project_api"}
+{"level":"info","message":"::1 - - [14/Jun/2026:17:14:10 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.124.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","service":"devOps_project_api"}
+{"level":"info","message":"Hello From DevOps API","service":"devOps_project_api"}
+{"level":"info","message":"::1 - - [14/Jun/2026:17:15:03 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.124.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","service":"devOps_project_api"}
+{"level":"info","message":"Hello From DevOps API","service":"devOps_project_api"}
+{"level":"info","message":"::1 - - [14/Jun/2026:17:31:34 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.124.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","service":"devOps_project_api"}
+{"level":"info","message":"::1 - - [14/Jun/2026:17:32:02 +0000] \"GET /sign-in HTTP/1.1\" 404 146 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.124.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","service":"devOps_project_api"}
+{"level":"info","message":"::1 - - [14/Jun/2026:17:33:15 +0000] \"GET /health HTTP/1.1\" 200 66 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.124.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","service":"devOps_project_api"}
+{"level":"info","message":"::1 - - [14/Jun/2026:17:33:33 +0000] \"GET /api/auth/sign-in HTTP/1.1\" 404 155 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.124.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","service":"devOps_project_api"}
+{"level":"info","message":"::1 - - [14/Jun/2026:17:36:20 +0000] \"POST / HTTP/1.1\" 404 140 \"-\" \"PostmanRuntime/7.49.0\"","service":"devOps_project_api"}
+{"level":"info","message":"::1 - - [14/Jun/2026:17:36:30 +0000] \"POST / HTTP/1.1\" 404 140 \"-\" \"PostmanRuntime/7.49.0\"","service":"devOps_project_api"}
+{"level":"info","message":"Hello From DevOps API","service":"devOps_project_api"}
+{"level":"info","message":"::1 - - [14/Jun/2026:17:36:46 +0000] \"GET / HTTP/1.1\" 200 31 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36\"","service":"devOps_project_api"}
+{"level":"info","message":"::1 - - [14/Jun/2026:17:36:46 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36\"","service":"devOps_project_api"}
+{"level":"info","message":"::1 - - [14/Jun/2026:17:36:48 +0000] \"GET /sw.js HTTP/1.1\" 404 144 \"http://localhost:3000/sw.js\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36\"","service":"devOps_project_api"}
+{"level":"info","message":"::1 - - [14/Jun/2026:17:37:07 +0000] \"POST / HTTP/1.1\" 404 140 \"-\" \"PostmanRuntime/7.49.0\"","service":"devOps_project_api"}
+{"level":"info","message":"::1 - - [14/Jun/2026:17:37:22 +0000] \"POST / HTTP/1.1\" 404 140 \"-\" \"PostmanRuntime/7.49.0\"","service":"devOps_project_api"}
+{"level":"info","message":"::1 - - [14/Jun/2026:17:38:39 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 404 156 \"-\" \"PostmanRuntime/7.49.0\"","service":"devOps_project_api"}
+{"level":"info","message":"::1 - - [14/Jun/2026:17:40:50 +0000] \"GET /api HTTP/1.1\" 200 35 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.124.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","service":"devOps_project_api"}
+{"level":"info","message":"::1 - - [14/Jun/2026:17:42:36 +0000] \"GET /api HTTP/1.1\" 200 35 \"-\" \"PostmanRuntime/7.49.0\"","service":"devOps_project_api"}
+{"level":"info","message":"::1 - - [14/Jun/2026:17:42:47 +0000] \"GET /health HTTP/1.1\" 200 66 \"-\" \"PostmanRuntime/7.49.0\"","service":"devOps_project_api"}
+{"level":"info","message":"Hello From DevOps API","service":"devOps_project_api"}
+{"level":"info","message":"::1 - - [14/Jun/2026:17:42:52 +0000] \"GET / HTTP/1.1\" 200 31 \"-\" \"PostmanRuntime/7.49.0\"","service":"devOps_project_api"}
+{"level":"info","message":"::1 - - [14/Jun/2026:17:43:08 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 404 156 \"-\" \"PostmanRuntime/7.49.0\"","service":"devOps_project_api"}
+{"level":"info","message":"::1 - - [14/Jun/2026:17:43:57 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 404 156 \"-\" \"PostmanRuntime/7.49.0\"","service":"devOps_project_api"}
+{"level":"info","message":"::1 - - [14/Jun/2026:17:44:19 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 404 156 \"-\" \"PostmanRuntime/7.49.0\"","service":"devOps_project_api"}
+{"level":"info","message":"::1 - - [14/Jun/2026:17:44:40 +0000] \"POST / HTTP/1.1\" 404 140 \"-\" \"PostmanRuntime/7.49.0\"","service":"devOps_project_api"}
+{"level":"info","message":"Hello From DevOps API","service":"devOps_project_api"}
+{"level":"info","message":"::1 - - [14/Jun/2026:17:44:47 +0000] \"GET / HTTP/1.1\" 200 31 \"-\" \"PostmanRuntime/7.49.0\"","service":"devOps_project_api"}
+{"level":"info","message":"Hello From DevOps API","service":"devOps_project_api"}
+{"level":"info","message":"::1 - - [14/Jun/2026:17:49:34 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36\"","service":"devOps_project_api"}
+{"level":"info","message":"::1 - - [14/Jun/2026:17:49:36 +0000] \"GET /sw.js HTTP/1.1\" 404 144 \"http://localhost:3000/sw.js\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36\"","service":"devOps_project_api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Jun/2026:17:51:03 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 404 156 \"-\" \"node\"","service":"devOps_project_api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Jun/2026:17:51:19 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 200 31 \"-\" \"node\"","service":"devOps_project_api"}
+{"level":"info","message":"::1 - - [14/Jun/2026:17:51:23 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 200 31 \"-\" \"PostmanRuntime/7.49.0\"","service":"devOps_project_api"}
+{"level":"info","message":"::1 - - [16/Jun/2026:10:35:01 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 92 \"-\" \"PostmanRuntime/7.54.0\"","service":"devOps_project_api"}
+{"level":"info","message":"::1 - - [16/Jun/2026:10:35:45 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 92 \"-\" \"PostmanRuntime/7.54.0\"","service":"devOps_project_api"}
+{"level":"info","message":"::1 - - [16/Jun/2026:10:44:39 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 92 \"-\" \"PostmanRuntime/7.54.0\"","service":"devOps_project_api"}
+{"level":"info","message":"User contact@gmail.com created successfully","service":"devOps_project_api"}
+{"level":"info","message":"User registered successfully: contact@gmail.com","service":"devOps_project_api"}
+{"level":"info","message":"::1 - - [16/Jun/2026:10:46:12 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 106 \"-\" \"PostmanRuntime/7.54.0\"","service":"devOps_project_api"}
+{"level":"info","message":"User hus@gmail.com created successfully","service":"devOps_project_api"}
+{"level":"info","message":"User registered successfully: hus@gmail.com","service":"devOps_project_api"}
+{"level":"info","message":"::1 - - [16/Jun/2026:10:47:22 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 99 \"-\" \"PostmanRuntime/7.54.0\"","service":"devOps_project_api"}
